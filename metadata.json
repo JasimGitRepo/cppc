@@ -1,0 +1,6 @@
+{
+  "name": "C++ IDE",
+  "description": "On-device C++ IDE for Android with native toolchain orchestration, isolated execution service, background clangd LSP integration, and dynamic dependency management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
